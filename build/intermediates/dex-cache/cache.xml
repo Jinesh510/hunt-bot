@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Jinesh/Downloads/Urbanhunt_Test/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/Jinesh/Downloads/Urbanhunt_Test/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-157212ef94e79eb2f24fa06530932afc1990cdbc.jar" />
+    </item>
+    <item
+        jar="/Users/Jinesh/Downloads/Urbanhunt_Test/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/Jinesh/Downloads/Urbanhunt_Test/app/build/intermediates/pre-dexed/debug/classes-4d5197c2ffcc771e723cdd1a09e5d9d9e9f32fd0.jar" />
+    </item>
+    <item
+        jar="/Users/Jinesh/Downloads/Urbanhunt_Test/app/libs/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/Jinesh/Downloads/Urbanhunt_Test/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-e3b86d274e9124623f6749c88a50015ec48d149d.jar" />
+    </item>
+    <item
+        jar="/Users/Jinesh/Downloads/Urbanhunt_Test/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/Jinesh/Downloads/Urbanhunt_Test/app/build/intermediates/pre-dexed/debug/classes-6435a9bf78552501c412af63fa55a96111df4456.jar" />
+    </item>
+    <item
+        jar="/Users/Jinesh/Downloads/Urbanhunt_Test/app/libs/Parse-1.9.1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="1b065010f3c9d441ede9078aca8eabcd1c81e647">
+        <dex dex="/Users/Jinesh/Downloads/Urbanhunt_Test/app/build/intermediates/pre-dexed/debug/Parse-1.9.1-952864d459d525ddc7172ca3942e6b63ab80d3ef.jar" />
+    </item>
+    <item
+        jar="/Users/Jinesh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/Jinesh/Downloads/Urbanhunt_Test/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-df464a78627186a7902a77d7f5dea3e360157e3b.jar" />
+    </item>
+
+</items>
